@@ -1,0 +1,7 @@
+{
+    "sketch": "node1.ino",
+    "port": "/dev/ttyACM0",
+    "board": "arduino:avr:uno",
+    "output": "../build",
+    "debugger": "jlink"
+}

@@ -1,0 +1,7 @@
+{
+    "arduino.path": "/home/negrocu/Downloads/Programs/arduino-1.8.4",
+    "arduino.additionalUrls": "/home/negrocu/Arduino/libraries",
+    "arduino.logLevel": "info",
+    "arduino.enableUSBDetection": true
+  }
+  
